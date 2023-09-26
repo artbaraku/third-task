@@ -130,3 +130,17 @@ li {
     list-style-type: none;
 }
 
+
+@media screen and (max-width: 768px) {
+    .btn-showpopup {
+        justify-content: center; 
+    }
+
+    .modal {
+        max-width: 90%; 
+    }
+
+    .buttons {
+        justify-content: center; 
+    }
+}
